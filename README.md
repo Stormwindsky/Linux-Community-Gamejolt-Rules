@@ -19,3 +19,5 @@ PROHIBITION OF MALICIOUS OR SUSPICIOUS SITES & .ISO FILES SUCH AS Winux (Wubuntu
 Rules for moderators:
 
 The Linux News should only be related to Linux and should not have an advertising tone such as “THIS NEW LINUX IS BETTER THAN WINDOWS.” The article should be a summary with sources (if possible).
+
+Fake posts are not allowed, except on April 1st, but only for moderators. AND IF YOU ARE A MODERATOR, THE ONLY CHANNEL WHERE APRIL FOOL'S DAY PRANKS ARE ALLOWED IS: Announcement of this community
